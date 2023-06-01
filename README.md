@@ -1,3 +1,2 @@
 My first readme
-README update
-this is my update
+update from the project
